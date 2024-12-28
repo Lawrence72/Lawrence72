@@ -14,12 +14,4 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lawrence72&theme=default" />
     </td>
   </tr>
-  <tr style="border: none">
-    <td align="center" style="border: none">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lawrence72&theme=default" />
-    </td>
-    <td align="center" style="border: none">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lawrence72&theme=default&utcOffset=8" />
-    </td>
-  </tr>
 </table>
